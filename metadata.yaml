@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6197
     wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35741#Kunstenaarsleven-te-Parijs--13-Roman-uit-het-Boh-me-leven
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
